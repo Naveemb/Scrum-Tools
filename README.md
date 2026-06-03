@@ -1,2 +1,2 @@
 # Scrum-Tools
-Tools for Scrum Masters
+Mastering Scrum Of Scrums
